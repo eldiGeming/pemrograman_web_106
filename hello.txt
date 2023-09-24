@@ -1,1 +1,3 @@
-Hallo dunia!!
+Hai dunia!!
+saya sedang belajar menggunakan Git!
+saya pasti bisa!!!
